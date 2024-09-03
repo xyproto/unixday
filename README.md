@@ -9,6 +9,10 @@
 
 ![The UNIX Day Server](img/unixday_server.png)
 
+## See also
+
+* The [`ud` utility](https://github.com/xyproto/ud), which is written in C.
+
 ## General info
 
 * Version: 1.0.0
