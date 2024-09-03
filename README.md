@@ -1,10 +1,13 @@
-# UNIXDAY
+# UNIX Day
 
-unixday package + cmd/server/main.go web server, showing the current UNIX day, countdown style.
+## Contents
+
+* `unixday` package for Go.
+* A web server, showing the current UNIX day, countdown style.
 
 ## Screenshot
 
-![img/unixday_server.png]
+![The UNIX Day Server](img/unixday_server.png)
 
 ## General info
 
