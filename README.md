@@ -8,5 +8,6 @@ unixday package + cmd/server/main.go web server, showing the current UNIX day, c
 
 ## General info
 
-* License: MIT
 * Version: 1.0.0
+* License: MIT
+* Author: Alexander F. Rødseth &lt;xyproto@archlinux.org&gt;
