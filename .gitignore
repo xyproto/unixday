@@ -1,2 +1,6 @@
-cmd/ud/ud
 *.bak
+*.o
+*.swp
+*.tmp
+.DS_Store
+cmd/server/server
